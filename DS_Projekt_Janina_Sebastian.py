@@ -1,6 +1,8 @@
 """DS Projekt Janina_Sebastian."""
 
 __authors__ = "Janina Höhn, Sebastian Kolb"
+data sources: http://offenedaten.frankfurt.de/dataset/a0feb40c-b5f5-4ba2-a1fc-217229f65a96/resource/68a508c7-2018-4263-88fd-23760f254344/download/bauenwohnen.xls
+              http://offenedaten.frankfurt.de/dataset/3be1af84-12d5-4d91-979a-3a468c77ed4e/resource/57bc2f7c-60ed-4511-83b3-dbc6542f38de/download/bevoelkerung.xls
 #------------------------------------------------------------------------------------------------------------------
 # Imports necessary to run this py file.
 # Pandas for data manipulation.
